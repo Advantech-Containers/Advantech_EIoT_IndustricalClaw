@@ -1,1 +1,1 @@
-# EIoT_IndustricalClaw
+# Advantech_EIoT_IndustricalClaw
