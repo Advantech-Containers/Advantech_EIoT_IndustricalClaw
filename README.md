@@ -15,6 +15,11 @@ Each Agent needs two files: the .zip (Agent) and the .md (Task).
 
 Want everything at once? On the repo's main page, click *Code → Download ZIP*.
 
+## Hardware Requirements
+
+- **Platform**: NVIDIA Jetson Orin NX or NVIDIA Jetson Thor
+- Ensure container runtime and GPU drivers (NVIDIA Container Toolkit / JetPack) are properly configured.
+
 ## Quick start
 
 The dashboard has HTTPS enabled by default on port `18765` (e.g., `https://<IP>:18765`).  
