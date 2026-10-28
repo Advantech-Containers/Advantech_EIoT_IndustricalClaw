@@ -4,6 +4,13 @@ Ready-to-use Agents for IndustrialClaw. Each one comes with a Task, so you can i
 
 Browse the Agents in the [agents/](agents/) folder.
 
+## Key Features
+
+- **Local First**: Runs AI models, agents, and data directly on edge devices to ensure data privacy and reduce reliance on cloud connectivity.
+- **Role-Based Access Control (RBAC)**: Restricts data, tool, and feature access based on assigned user roles.
+- **Sandbox / OverlayFS**: Isolates the agent's workspace to protect production environments from unintended system changes.
+- **Audit Logging**: Tracks all agent activities, logs, sessions, and generated files for complete observability and accountability.
+
 ## Download
 
 Each Agent needs two files: the .zip (Agent) and the .md (Task).
